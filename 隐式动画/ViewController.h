@@ -2,7 +2,7 @@
 //  ViewController.h
 //  隐式动画
 //
-//  Created by 孙春磊 on 2016/10/20.
+//  Created by mxl on 2016/10/20.
 //  Copyright © 2016年 yunjifen. All rights reserved.
 //
 
